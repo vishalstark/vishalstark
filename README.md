@@ -42,7 +42,7 @@ __Note__: The images are downloaded and used thanks to unsplash.com website. It 
 
 | 🛒[Walmart Lens](https://github.com/vishalstark/WalmartProdDetWAP)| 🐤 [Real Time Tweets Scraping and Analysis](https://github.com/techhuv/Real-Time-Tweets-Tracking)| 📉 [Tesla Stock Price Analysis](https://github.com/vishalstark/Tesla-Stock-Price-Analysis)|
 | :-:| :-:| :-:|
-| [<img src = "https://github.com/vishalstark/Resources/blob/master/Walmart.png" width = 333 height = 200/>](https://github.com/vishalstark/WalmartProdDetWAP)| [<img src = "https://github.com/vishalstark/Resources/blob/master/Tesla.jpg" width = 333 height = 200/>](https://github.com/techhuv/Real-Time-Tweets-Tracking)| [<img src = "https://github.com/vishalstark/Resources/blob/master/Tesla.jpg" width = 333 height = 200/>](https://github.com/vishalstark/Tesla-Stock-Price-Analysis)| 
+| [<img src = "https://github.com/vishalstark/Resources/blob/master/Walmart.png" width = 333 height = 200/>](https://github.com/vishalstark/WalmartProdDetWAP)| [<img src = "https://github.com/vishalstark/Resources/blob/master/Tweets%20Analysis.png" width = 333 height = 200/>](https://github.com/techhuv/Real-Time-Tweets-Tracking)| [<img src = "https://github.com/vishalstark/Resources/blob/master/Tesla.jpg" width = 333 height = 200/>](https://github.com/vishalstark/Tesla-Stock-Price-Analysis)| 
 
 | 🏦 [Loan Prediction ALgorithm](https://github.com/vishalstark/Loan-Prediction-Algorithm)| ⚕️ [World Happiness Report Analysis](https://github.com/vishalstark/World-Happiness-Report-Analysis)| 🤖 [Discord Chat Analysis](https://github.com/techhuv/Discord-Data-Scraping-and-Processing)
 | :-:| :-:| :-:|
