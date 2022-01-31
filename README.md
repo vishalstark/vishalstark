@@ -56,14 +56,9 @@ __Note__: The images are downloaded and used thanks to unsplash.com website. It 
 | :-:| :-:| :-:|
 | [<img src = "https://github.com/vishalstark/Resources/blob/master/Nope%20Chart.jpg" width = 300 height = 200/>](https://github.com/techhuv/NOPE-Value-Scrapper) | [<img src = "https://github.com/vishalstark/Resources/blob/master/Daytradescans.png" width = 300 height = 200/>](https://github.com/techhuv/Daytradescans-Ivan)| [<img src = "https://github.com/vishalstark/Resources/blob/master/Walmart.png" width = 300 height = 200/>](https://github.com/techhuv/Walmart-Scrapper)|
 
-| 🛒 [NSE Historical Data Scrapper](https://github.com/techhuv/Vishal-Web-Site-Scrappers/tree/master/NSE%20Historical%20Data%20Scrapping)| 🐤 [Real Time Tweets Scraping and Analysis](https://github.com/techhuv/Real-Time-Tweets-Tracking)| 📉 [NSE Option Data Scrapper](https://github.com/techhuv/NSE_Option_Chains)|
+| 🛒 [NSE Historical Data Scrapper](https://github.com/techhuv/Vishal-Web-Site-Scrappers/tree/master/NSE%20Historical%20Data%20Scrapping)| 🐤 [Google Trends Data Analysis](https://github.com/techhuv/gtrends)| 📉 [NSE Option Data Scrapper](https://github.com/techhuv/NSE_Option_Chains)|
 | :-:| :-:| :-:|
-| [<img src = "https://github.com/vishalstark/Resources/blob/master/NSE.jpg" width = 333 height = 200/>](https://github.com/techhuv/Vishal-Web-Site-Scrappers/tree/master/NSE%20Historical%20Data%20Scrapping)| [<img src = "https://github.com/vishalstark/Resources/blob/master/Tesla.jpg" width = 333 height = 200/>](https://github.com/techhuv/Real-Time-Tweets-Tracking)| [<img src = "https://github.com/vishalstark/Resources/blob/master/NSE%20Option%20Chain%20to%20CSV.png" width = 333 height = 200/>](https://github.com/techhuv/NSE_Option_Chains)|
-
-| 🛒 [Google Trends Data Analysis](https://github.com/techhuv/gtrends)|
-| :-:|
-| [<img src = "https://github.com/vishalstark/Resources/blob/master/Google%20Trends.png" width = 333 height = 200/>](https://github.com/techhuv/gtrends)|
-
+| [<img src = "https://github.com/vishalstark/Resources/blob/master/NSE.jpg" width = 333 height = 200/>](https://github.com/techhuv/Vishal-Web-Site-Scrappers/tree/master/NSE%20Historical%20Data%20Scrapping)| [<img src = "https://github.com/vishalstark/Resources/blob/master/Google%20Trends.png" width = 333 height = 200/>](https://github.com/techhuv/gtrends)| [<img src = "https://github.com/vishalstark/Resources/blob/master/NSE%20Option%20Chain%20to%20CSV.png" width = 333 height = 200/>](https://github.com/techhuv/NSE_Option_Chains)|
 
 
 ## ⭐️ SQL Projects 
@@ -105,17 +100,17 @@ __Note__: The images are downloaded and used thanks to unsplash.com website. It 
 
 ## ⭐️ Work Experience 
 
-&emsp;&emsp; 🧪👨‍🔬 [__Graduate Teaching Assistant for Data Management for Analytics | Northeastern University__]()
+&emsp;&emsp; 🧪👨‍🔬 __Graduate Teaching Assistant for Data Management for Analytics | Northeastern University__
 
-&emsp;&emsp; 👱‍♂️👩‍💻 [__Customer Experience Technician in Information Technology Services (ITS) | Northeastern University__]()
+&emsp;&emsp; 👱‍♂️👩‍💻 __Customer Experience Technician in Information Technology Services (ITS) | Northeastern University__
 
-&emsp;&emsp; 🆓⚒ [__Freelancer | Upwork__]()
+&emsp;&emsp; 🆓⚒ __Freelancer | Upwork__
 
-&emsp;&emsp; 👨‍💻💻 [__Software Trainee | Quest Global Technologies__]()
+&emsp;&emsp; 👨‍💻💻 __Software Trainee | Quest Global Technologies__
 
-&emsp;&emsp; 📚🎯 [__Subject Matter Expert | Skill Planet__]()
+&emsp;&emsp; 📚🎯 __Subject Matter Expert | Skill Planet__
 
-&emsp;&emsp; ✍📝 [__Technical Content Writer | DataFlair__]()
+&emsp;&emsp; ✍📝 __Technical Content Writer | DataFlair__
 
 
 ## ⭐️ List of Certifications
@@ -142,7 +137,7 @@ __Note__: The images are downloaded and used thanks to unsplash.com website. It 
 
 &emsp;&emsp; 📃 [Library Management System](https://data-flair.training/blogs/library-management-system-python-project/)
 
-&emsp;&emsp; 📃 [Image Segmentation](https://data-flair.training/blogs/image-segmentation-machine-learning/PROJECTS)
+&emsp;&emsp; 📃 [Image Segmentation](https://data-flair.training/blogs/image-segmentation-machine-learning/)
 
 &emsp;&emsp; 📃 [Quora Pofile](https://www.quora.com/profile/Vishal-Bothra-2)
 
@@ -161,21 +156,21 @@ __Note__: The images are downloaded and used thanks to unsplash.com website. It 
 
 ## ⭐️ Interests
 
-&emsp;&emsp; 🤖 [Iron Man]() 
+&emsp;&emsp; 🤖 Iron Man
 
-&emsp;&emsp; 🎭 [Acting]() 
+&emsp;&emsp; 🎭 Acting 
 
-&emsp;&emsp; 🎥 [Direction]()
+&emsp;&emsp; 🎥 Direction
 
-&emsp;&emsp; 📸 [Photography]() 
+&emsp;&emsp; 📸 Photography
 
-&emsp;&emsp; 🎤 [Singing]() 
+&emsp;&emsp; 🎤 Singing
 
-&emsp;&emsp; ✏ [Doodling]()
+&emsp;&emsp; ✏ Doodling
 
-&emsp;&emsp; 🕹 [Gaming]() 
+&emsp;&emsp; 🕹 Gaming
 
-&emsp;&emsp; 👨‍🏫 [Teaching Programming Fundamentals]()
+&emsp;&emsp; 👨‍🏫 Teaching Programming Fundamentals
 <!-- 
 
 ## ⭐️ Resume 
@@ -195,7 +190,7 @@ __Note__: The images are downloaded and used thanks to unsplash.com website. It 
 
 ## ⭐️ Summary
 
-These are some of my projects, blogs and certifications that I have worked and uploaded on GitHub. I would be looking forward to learn new technologies in the field of AI and machine learning by going through a few more courses and applying my knowledge in different projects. Feel free to reach out if you have any questions or need any explanations of the projects. Looking forward to share my knowledge to the community.
+These are some of my projects, blogs and certifications that I have worked and uploaded on GitHub.
 
 Below are some of the ways we might connect. Feel free to share your thoughts. Thanks!😁
 
